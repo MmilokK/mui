@@ -1,0 +1,7 @@
+{
+    "eslint.debug": false,
+    "eslint.validate": [
+        
+    ],
+    "javascript.validate.enable":true
+}
